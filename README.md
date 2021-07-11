@@ -45,7 +45,7 @@ Maria tem uma loja de confecções e pretende criar um sistema para administrar 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/lourdilene/vesti.git
+$ git clone https://github.com/lourdilene/api-products.git
 
 # Vá para a pasta api-products
 $ cd api-products
